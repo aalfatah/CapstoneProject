@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Capstone Project</string>
+    <string name="title_activity_regist">RegistActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_user_profil">UserProfilActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!--    String untuk penjelasan di Text View-->
+    <string name="Detail_SKU">Mengurus Surat Keterangan Usaha dapat melalui offline.\n\n
+        \n1.	Siapkan dokumen pribadi yang dibutuhkan, seperti KTP dan KK asli\n
+        \n2.	Meminta surat pengantar pengajuan SKU dari pejabat RT atau RW tempat domisili usaha\n
+        \n3.	Mengajukan penerbitan SKU pada pihak kecamatan\n
+        \n4.	Mengurus perngesahan di kantor kecamatan\n\n
+        \nUntuk mengurus surat pengantar di RT caranya mudah.
+        \nAnda hanya perlu mengajukan ke pengurus RT setempat.
+        \nBiasanya Ketua atau Sekretaris RT.
+        \nSebelum mengajukan, Anda harus membawa KTP asli dan KK.
+        \nPihak pengurus kemudian membuatkan Surat Pengantar untuk membuat SKU sebagai bukti anda berdomisili di lokasi tersebut.
+        \nSurat pengantar yang sudah jadi ditandatangani Ketu RT dan kemudian disahkan Ketua RW.
+        \nTidak ada biaya tambahan untuk mengurus surat pengantar ini.\n\n
+
+    </string>
+    <string name="Detail_SKCK">Pembuatan SKCK manual bisa dilakukan di Polsek dan Polres setempat yang prosesnya tak memakan banyak waktu.\n
+        \nSebagai catatan, untuk keperluan melamar pekerjaan, kelengkapan administrasi PNS/CPNS, dan pembuatan visa atau keperluan lain yang bersifat antarnegara, Anda bisa langsung datang ke Polres (tingkat Kabupaten/Kota), bukan di Polsek.\n\n
+        \nAlur mengurus SKCK offline:\n
+        \n•	Setelah melengkapi syarat membuat SKCK, Anda langsung menuju loket bagian SKCK untuk mendaftarkan/memasukkan berkas yang telah Anda siapkan. Nanti Anda akan diminta untuk mengisi formulir.\n
+        \n•	Pihak Polsek akan meminta kelengkapan syarat-syarat seperti yang telah dijelaskan di atas sebagai kelengkapan. Agar memudahkan dan cepat, pastikan Anda sudah mempersiapkan semua syarat membuat SKCK berupa dokumen yang diminta dan membawa dokumen asli untuk berjaga-jaga jika ada pengecekan.\n
+        \n•	Sidik jari, bagi Anda yang mengurus SKCK baru dan belum punya rumus sidik jari, Anda bisa melakukan pengambilan sidik jari di Polres, tepatnya bagian rekam rumus sidik jari. Untuk perekaman sidik jari ini, biasanya akan dipungut biaya tergantung kebijakan Polsek atau Polres setempat. Tapi ada juga Polres atau Polsek yang sudah meniadakan biaya tersebut jadi gratis tak ada biaya sidik jari. Pastikan Anda bertanya dulu mengenai hal ini.\n
+        \n•	Kalau mengurus SKCK di Polres, biasanya prosesnya bisa lebih cepat untuk mendapatkan sidik jari sebagai salah satu membuat dalam penerbitan SKCK. Ada pengalaman juga ketika mengurus penerbitan SKCK di Polsek, pihak Polsek akan memberikan surat rekomendasi untuk pembuatan rumus sidik jari di Polres.\n
+        \n•	Setelah proses sidik jari selesai, saatnya untuk mengumpulkan berkas-berkas yang telah Anda siapkan dan membayar uang penerbitan SKCK di loket.\n\n
+        \nTunggu antrean dan SKCK akan segera selesai.\n
+        \nMengurus SKCK secara online bisa dilakukan dengan membuka laman berikut :
+
+        \nskck.polri.go.id\n\n
+
+    </string>
+    <string name="Detail_KTP">Cara membuat e-KTP (KTP Elektronik) sebenarnya sama dengan prosedur pembuatan KTP sebelumnya, namun di sini akan dilengkapi dengan pengambilan sidik jari dan scan retina mata yang bertujuan agar tercipta data tunggal, yaitu setiap satu orang dengan satu identitas (KTP).\n
+        \nSudah sangat umum, bahwa satu orang di Indonesia memiliki beberapa identitas/KTP.
+        \nPemberlakuan e-KTP juga dimaksudkan untuk mentertibkan administrasi orang per orang di Indonesia agar setiap identitas dan mobilitasnya tercatat dan terpantau secara jelas dan benar oleh negara.\n\n
+        \nCara membuat e-KTP diantaranya adalah:\n
+        \n1.	Pastikan kelurahan atau desa anda telah mendukung layanan e-KTP\n
+        \n2.	Datanglah dengan membawa fotocopy Kartu Keluarga (KK) dan Surat Pengantar RT/RW ke Keluarahan/Desa setempat.\n
+        \n3.	Ambil nomor antrian di loket, tunggu hingga dipanggil oleh petugas yang bersangkutan. Jangan lupa bawa surat panggilan untuk membuat e-KTP dari pemerintah setempat.\n
+        \n4.	Petugas akan memasukkan data dan foto anda secara digital. Pastikan dan bandingkan data anda dengan data di KTP anda, jika anda belum pernah mempunyai KTP isi formulir F1.01.\n
+        \n5.	Bubuhkan tanda tangan anda di alat perekam tanda tangan. Pastikan tanda tangan anda tidak berubah-rubah lagi berikutnya karena akan menyulitkan jika tidak sama dengan dokumen lain seperti paspor, SIM dan lain-lain.\n
+        \n6.	Lakukan pemindaian retina pada alat yang telah disediakan.\n
+        \n7.	Pastikan Surat Panggilan anda akan ditandatangani dan distempel oleh petugas berwenang.\n
+        \n8.	Tunggu proses pencetakan sekitar 2 minggu. Bila e-KTP selesai dicetak anda akan diberitahu dan dapat diambil di Keluarahan/Desa setempat.\n\n
+
+    </string>
+
+    <string name="Detail_Panduan">Tatacara Melakukan Pelaporan.\n\n
+    \n1.	Pengguna Harus membuat akun terlebih dahulu pada halaman registrasi (jika sudah mempunyai akun, langsung masuk ke halaman login)\n
+    \n2.	Melakukan Login untuk masuk kedalam sistem\n
+    \n3.	Masuk ke Halaman Report\n
+    \n4.	Pilih Lakukan Pengaduan\n
+    \n5.	Isi Form Pengaduan sesuai apa yang ingin anda laporkan\n
+    \n6.	Tekan tombol Laporkan untuk mengirim Laporan anda\n
+    \n7.	Selesai\n\n
+
+    \nAplikasi ini dibuat untuk memenuhi mata kuliah Informatics Capstone Project.\n\n
+
+    \nAuthor @AhmatAlfatah.\n\n
+
+    </string>
+
+</resources>
